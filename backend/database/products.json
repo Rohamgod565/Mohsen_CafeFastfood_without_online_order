@@ -1,0 +1,1134 @@
+
+[
+  {
+    "id": 1,
+    "section": "fastfood",
+    "category": "burger",
+    "name": "برگر مرغ",
+    "image": "images/products/chicken-burger.jpg",
+    "price": 280000,
+    "desc": "برگر مرغ، گوجه، کاهو، خیارشور",
+    "available": true
+  },
+  {
+    "id": 2,
+    "section": "fastfood",
+    "category": "burger",
+    "name": "برگر مخصوص",
+    "image": "images/products/special-burger.jpg",
+    "price": 195000,
+    "desc": "برگر شرکتی ۶۰٪، کاهو، گوجه، خیارشور",
+    "available": true
+  },
+  {
+    "id": 3,
+    "section": "fastfood",
+    "category": "burger",
+    "name": "برگر ساده",
+    "image": "images/products/simple-burger.jpg",
+    "price": 165000,
+    "desc": "برگر شرکتی ۳۰٪، کاهو، گوجه، خیارشور",
+    "available": true
+  },
+  {
+    "id": 4,
+    "section": "fastfood",
+    "category": "burger",
+    "name": "برگر ویژه محسن",
+    "image": "images/products/burger-special.jpg",
+    "price": 575000,
+    "desc": "برگر گوشت، برگر مرغ، ژامبون، پنیر، کاهو، گوجه، خیارشور، سس مخصوص",
+    "available": true
+  },
+  {
+    "id": 5,
+    "section": "fastfood",
+    "category": "burger",
+    "name": "دوبل برگر گوشت",
+    "image": "images/products/doubleburger.jpg",
+    "price": 545000,
+    "desc": "۲ عدد برگر گوشت، پنیر، کاهو، گوجه، خیارشور",
+    "available": true
+  },
+  {
+    "id": 6,
+    "section": "fastfood",
+    "category": "burger",
+    "name": "مکزیکن برگر",
+    "image": "images/products/mexicanburger.jpg",
+    "price": 490000,
+    "desc": "برگر گوشت، ژامبون گوشت، هالوپینو، پنیر، کاهو، گوجه",
+    "available": true
+  },
+  {
+    "id": 7,
+    "section": "fastfood",
+    "category": "burger",
+    "name": "ماشروم برگر",
+    "image": "images/products/mushroomburger.jpg",
+    "price": 425000,
+    "desc": "برگر گوشت، قارچ، سس قارچ، کاهو، گوجه",
+    "available": true
+  },
+  {
+    "id": 8,
+    "section": "fastfood",
+    "category": "burger",
+    "name": "چیز برگر ذغالی",
+    "image": "images/products/cheeseburger.jpg",
+    "price": 350000,
+    "desc": "برگر گوشت، پنیر، کاهو، گوجه، خیارشور",
+    "available": true
+  },
+  {
+    "id": 9,
+    "section": "fastfood",
+    "category": "burger",
+    "name": "برگر ذغالی",
+    "image": "images/products/beefburger.jpg",
+    "price": 310000,
+    "desc": "برگر گوشت، گوجه، خیارشور، کاهو",
+    "available": true
+  },
+  {
+    "id": 10,
+    "section": "fastfood",
+    "category": "pizza",
+    "name": "پیتزا ویژه محسن",
+    "image": "images/products/pizza-special.jpg",
+    "prices": {
+      "single": 550000,
+      "medium": 800000,
+      "family": 1100000
+    },
+    "desc": "فیله گوساله، فیله مرغ، قارچ، فلفل دلمه، ذرت، زیتون، پنیر، سس مخصوص",
+    "available": true
+  },
+  {
+    "id": 11,
+    "section": "fastfood",
+    "category": "pizza",
+    "name": "پیتزا سیر و استیک",
+    "image": "images/products/garlic-steak.jpg",
+    "prices": {
+      "single": 520000,
+      "medium": 760000,
+      "family": 1050000
+    },
+    "desc": "استیک طعم‌دار، قارچ، زیتون، پنیر، سس سیر",
+    "available": true
+  },
+  {
+    "id": 12,
+    "section": "fastfood",
+    "category": "pizza",
+    "name": "پیتزا چهار فصل",
+    "image": "images/products/4season.jpg",
+    "prices": {
+      "single": 500000,
+      "medium": 740000,
+      "family": 1020000
+    },
+    "desc": "فیله مرغ، استیک، گوشت تاکو، قارچ، گوجه، پنیر، سس مخصوص",
+    "available": true
+  },
+  {
+    "id": 13,
+    "section": "fastfood",
+    "category": "pizza",
+    "name": "پیتزا رست بیف",
+    "image": "images/products/roast-beef-pizza.jpg",
+    "prices": {
+      "single": 490000,
+      "medium": 690000,
+      "family": 940000
+    },
+    "desc": "گوشت رست شده، قارچ، پنیر، فلفل دلمه، زیتون",
+    "available": true
+  },
+  {
+    "id": 14,
+    "section": "fastfood",
+    "category": "pizza",
+    "name": "پیتزا چیکن آلفردو",
+    "image": "images/products/alfredo.jpg",
+    "prices": {
+      "single": 480000,
+      "medium": 650000,
+      "family": 950000
+    },
+    "desc": "فیله مرغ، ذرت، زیتون، پنیر، سس آلفردو",
+    "available": true
+  },
+  {
+    "id": 15,
+    "section": "fastfood",
+    "category": "pizza",
+    "name": "پیتزا پیکانتو",
+    "image": "images/products/picanto.jpg",
+    "prices": {
+      "single": 370000,
+      "medium": 540000,
+      "family": 920000
+    },
+    "desc": "فیله گوساله، پپرونی، پنیر، هالوپینو، قارچ",
+    "available": true
+  },
+  {
+    "id": 16,
+    "section": "fastfood",
+    "category": "pizza",
+    "name": "پیتزا قارچ و گوشت",
+    "image": "images/products/mushroom-meat.jpg",
+    "prices": {
+      "single": 450000,
+      "medium": 620000,
+      "family": 990000
+    },
+    "desc": "گوشت تاکو، قارچ، پنیر، فلفل دلمه",
+    "available": true
+  },
+  {
+    "id": 17,
+    "section": "fastfood",
+    "category": "pizza",
+    "name": "پیتزا چیکن",
+    "image": "images/products/chicken.jpg",
+    "prices": {
+      "single": 440000,
+      "medium": 600000,
+      "family": 880000
+    },
+    "desc": "فیله مرغ، قارچ، فلفل دلمه، پنیر",
+    "available": true
+  },
+  {
+    "id": 18,
+    "section": "fastfood",
+    "category": "pizza",
+    "name": "سیزر پیتزا",
+    "image": "images/products/cizers.jpg",
+    "prices": {
+      "single": 430000,
+      "medium": 590000,
+      "family": 820000
+    },
+    "desc": "فیله مرغ، میکس کاهو، سس سزار، پنیر، سس سیر",
+    "available": true
+  },
+  {
+    "id": 19,
+    "section": "fastfood",
+    "category": "pizza",
+    "name": "پیتزا کالزونه",
+    "image": "images/products/calzone.jpg",
+    "prices": {
+      "single": 400000,
+      "medium": 580000,
+      "family": 890000
+    },
+    "desc": "گوشت تاکو، ژامبون گوشت، پنیر، زیتون",
+    "available": true
+  },
+  {
+    "id": 20,
+    "section": "fastfood",
+    "category": "pizza",
+    "name": "پیتزا پپرونی",
+    "image": "images/products/pepperoni.jpg",
+    "prices": {
+      "single": 390000,
+      "medium": 520000,
+      "family": 760000
+    },
+    "desc": "پپرونی، پنیر، زیتون، هالوپینو",
+    "available": true
+  },
+  {
+    "id": 21,
+    "section": "fastfood",
+    "category": "pizza",
+    "name": "پیتزا سبزیجات",
+    "image": "images/products/vegetable.jpg",
+    "prices": {
+      "single": 330000,
+      "medium": 530000,
+      "family": 740000
+    },
+    "desc": "گوجه، قارچ، ذرت، زیتون، اسفناج، پنیر",
+    "available": true
+  },
+  {
+    "id": 22,
+    "section": "fastfood",
+    "category": "pizza",
+    "name": "نان سیر",
+    "image": "images/products/garlic-bread.jpg",
+    "prices": {
+      "single": 330000,
+      "medium": 420000,
+      "family": 600000
+    },
+    "desc": "سس سیر، پنیر پیتزا",
+    "available": true
+  },
+  {
+    "id": 23,
+    "section": "fastfood",
+    "category": "pasta",
+    "name": "پاستا پنه بیف",
+    "image": "images/products/pasta-beef.jpg",
+    "price": 420000,
+    "desc": "گوشت گوساله، قارچ، سیر، پنیر، سس مخصوص",
+    "available": true
+  },
+  {
+    "id": 24,
+    "section": "fastfood",
+    "category": "pasta",
+    "name": "پاستا چیکن آلفردو",
+    "image": "images/products/pasta-alfredo.jpg",
+    "price": 390000,
+    "desc": "فیله مرغ، قارچ، سیر، پنیر، سس آلفردو",
+    "available": true
+  },
+  {
+    "id": 25,
+    "section": "fastfood",
+    "category": "pasta",
+    "name": "پاستا گوجه",
+    "image": "images/products/pasta-tomato.jpg",
+    "price": 290000,
+    "desc": "گوجه، پنیر، سیر، پیاز، سس مخصوص",
+    "available": true
+  },
+  {
+    "id": 26,
+    "section": "fastfood",
+    "category": "salad",
+    "name": "سالاد ویژه محسن",
+    "image": "images/products/salad-special.jpg",
+    "price": 120000,
+    "desc": "ماکارونی فرمی، سینه مرغ، قارچ، ذرت، لوبیا چیتی، زیتون، هویج، خیارشور، کلم، فلفل دلمه، سس",
+    "available": true
+  },
+  {
+    "id": 27,
+    "section": "fastfood",
+    "category": "salad",
+    "name": "سالاد سزار",
+    "image": "images/products/caesar.jpg",
+    "price": 290000,
+    "desc": "کاهو پیچ، فیله مرغ گریل شده، تست، پنیر پارمسان، سس سزار",
+    "available": true
+  },
+  {
+    "id": 28,
+    "section": "fastfood",
+    "category": "salad",
+    "name": "سالاد سبزیجات",
+    "image": "images/products/vegetable-salad.jpg",
+    "price": 200000,
+    "desc": "کاهو، اسفناج، نعناع، میوه فصل، پنیر لیقوان، تخمه آفتابگردان، سس مخصوص",
+    "available": true
+  },
+  {
+    "id": 29,
+    "section": "fastfood",
+    "category": "salad",
+    "name": "سالاد یونانی",
+    "image": "images/products/greek.jpg",
+    "price": 100000,
+    "desc": "خیار، گوجه، پیاز، فلفل دلمه، زیتون، پنیر لیقوان، جعفری، سس مخصوص",
+    "available": true
+  },
+  {
+    "id": 30,
+    "section": "fastfood",
+    "category": "salad",
+    "name": "سالاد اندونزی",
+    "image": "images/products/indonesian.jpg",
+    "price": 90000,
+    "desc": "سیب زمینی، هویج، ژامبون، کلم بنفش، کلم سفید، خیارشور، ذرت، فلفل دلمه",
+    "available": true
+  },
+  {
+    "id": 31,
+    "section": "fastfood",
+    "category": "salad",
+    "name": "سالاد فصل",
+    "image": "images/products/fasl.jpg",
+    "price": 80000,
+    "desc": "کاهو، خیار، گوجه، هویج",
+    "available": true
+  },
+  {
+    "id": 32,
+    "section": "fastfood",
+    "category": "salad",
+    "name": "سالاد کلم",
+    "image": "images/products/cabbage.jpg",
+    "price": 70000,
+    "desc": "کلم سفید، هویج، ذرت، کشمش، گردو، سس",
+    "available": true
+  },
+  {
+    "id": 33,
+    "section": "fastfood",
+    "category": "appetizer",
+    "name": "سیب زمینی ویژه",
+    "image": "images/products/special-fries.jpg",
+    "price": 320000,
+    "desc": "سیب زمینی سرخ شده، قارچ، پنیر، سوسیس سرخ شده",
+    "available": true
+  },
+  {
+    "id": 34,
+    "section": "fastfood",
+    "category": "appetizer",
+    "name": "سیب زمینی تنوری",
+    "image": "images/products/potato-baked.jpg",
+    "price": 290000,
+    "desc": "سیب زمینی تنوری، سس قارچ",
+    "available": true
+  },
+  {
+    "id": 35,
+    "section": "fastfood",
+    "category": "appetizer",
+    "name": "سیب زمینی",
+    "image": "images/products/fries.jpg",
+    "price": 170000,
+    "desc": "سیب زمینی سرخ شده",
+    "available": true
+  },
+
+  {
+    "id": 36,
+    "section": "fastfood",
+    "category": "sandwich",
+    "name": "ساندویچ رست بیف",
+    "image": "images/products/roastbeef.jpg",
+    "price": 440000,
+    "desc": "گوشت رست شده، کاهو، گوجه، خیارشور",
+    "available": true
+  },
+  {
+    "id": 37,
+    "section": "fastfood",
+    "category": "sandwich",
+    "name": "ساندویچ مغز",
+    "image": "images/products/maghz.jpg",
+    "price": 355000,
+    "desc": "مغز گوساله، گوجه، کاهو، خیارشور",
+    "available": true
+  },
+  {
+    "id": 38,
+    "section": "fastfood",
+    "category": "sandwich",
+    "name": "ساندویچ زبان",
+    "image": "images/products/zaban.jpg",
+    "price": 300000,
+    "desc": "زبان گوساله، گوجه، کاهو، خیارشور",
+    "available": true
+  },
+  {
+    "id": 39,
+    "section": "fastfood",
+    "category": "sandwich",
+    "name": "ساندویچ چیکن",
+    "image": "images/products/chicken-sandwich.jpg",
+    "price": 250000,
+    "desc": "فیله مرغ، کاهو، گوجه، خیارشور",
+    "available": true
+  },
+  {
+    "id": 40,
+    "section": "fastfood",
+    "category": "sandwich",
+    "name": "هات داگ ساده",
+    "image": "images/products/hotdog.jpg",
+    "prices": {
+      "simple":195000,
+      "cheese":215000
+    },
+    "desc": "سوسیس هات داگ، پنیر، کاهو، گوجه، خیارشور",
+    "available": true
+  },
+  {
+    "id": 41,
+    "section": "fastfood",
+    "category": "sandwich",
+    "name": "کوکتل",
+    "image": "images/products/cocktail.jpg",
+    "prices":{
+      "simple": 175000,
+      "cheese":215000
+    },
+    "desc": "سوسیس کوکتل، پنیر، کاهو، گوجه، خیارشور",
+    "available": true
+  },
+  {
+    "id": 42,
+    "section": "fastfood",
+    "category": "sandwich",
+    "name": "بندری",
+    "image": "images/products/bandari.jpg",
+    "price": 195000,
+    "desc": "سوسیس، سیب زمینی، پیاز، گوجه، کاهو، خیارشور",
+    "available": true
+  },
+  {
+    "id": 43,
+    "section": "fastfood",
+    "category": "sandwich",
+    "name": "فلافل",
+    "image": "images/products/falafel.jpg",
+    "price": 145000,
+    "desc": "فلافل خانگی، کاهو، گوجه، خیارشور",
+    "available": true
+  },
+  {
+    "id": 44,
+    "section": "fastfood",
+    "category": "sandwich",
+    "name": "ساندویچ سرد",
+    "image": "images/products/cold-sandwich.jpg",
+    "price": 285000,
+    "desc": "ژامبون مرغ یا گوشت، کاهو، گوجه، خیارشور",
+    "available": true
+  },
+
+  {
+    "id": 45,
+    "section": "fastfood",
+    "category": "chicken",
+    "name": "فیله مرغ سوخاری (کیلویی)",
+    "image": "images/products/fried-fillet.jpg",
+    "price": 1150000,
+    "desc": "۱ کیلو فیله مرغ سوخاری",
+    "available": true
+  },
+  {
+    "id": 46,
+    "section": "fastfood",
+    "category": "chicken",
+    "name": "ران مرغ سوخاری (کیلویی)",
+    "image": "images/products/fried-leg.jpg",
+    "price": 990000,
+    "desc": "۱ کیلو ران مرغ سوخاری",
+    "available": true
+  },
+  {
+    "id": 47,
+    "section": "fastfood",
+    "category": "chicken",
+    "name": "بال و کتف سوخاری (کیلویی)",
+    "image": "images/products/fried-wing.jpg",
+    "price": 850000,
+    "desc": "۱ کیلو بال و کتف سوخاری",
+    "available": true
+  },
+  {
+    "id": 48,
+    "section": "fastfood",
+    "category": "chicken",
+    "name": "قارچ سوخاری (کیلویی)",
+    "image": "images/products/fried-mushroom.jpg",
+    "price": 590000,
+    "desc": "۱ کیلو قارچ سوخاری",
+    "available": true
+  },
+  {
+    "id": 49,
+    "section": "fastfood",
+    "category": "snack",
+    "name": "اسنک ویژه محسن",
+    "image": "images/products/snack-special.jpg",
+    "price": 300000,
+    "desc": "گوشت گوساله، فیله مرغ، قارچ، پنیر، فلفل دلمه، ذرت، آویشن",
+    "available": true
+  },
+  {
+    "id": 50,
+    "section": "fastfood",
+    "category": "snack",
+    "name": "اسنک رست بیف",
+    "image": "images/products/snack-roastbeef.jpg",
+    "price": 250000,
+    "desc": "گوشت رست شده، قارچ، فلفل دلمه، پنیر، آویشن",
+    "available": true
+  },
+  {
+    "id": 51,
+    "section": "fastfood",
+    "category": "snack",
+    "name": "اسنک مرغ و قارچ",
+    "image": "images/products/snack-chicken.jpg",
+    "price": 220000,
+    "desc": "فیله مرغ، قارچ، پنیر، فلفل دلمه، آویشن",
+    "available": true
+  },
+  {
+    "id": 52,
+    "section": "fastfood",
+    "category": "snack",
+    "name": "اسنک مخلوط",
+    "image": "images/products/snack-mix.jpg",
+    "price": 160000,
+    "desc": "کالباس مارتا، قارچ، پنیر، فلفل دلمه، آویشن",
+    "available": true
+  },
+  
+  {
+    "id": 56,
+    "section": "fastfood",
+    "category": "drinks",
+    "name": "کوکاکولا",
+    "price": 35000,
+    "desc": "بطری ۳۰۰ میلی‌لیتری",
+    "available": true
+  },
+  {
+    "id": 57,
+    "section": "fastfood",
+    "category": "drinks",
+    "name": "فانتا",
+    "price": 35000,
+    "desc": "بطری ۳۰۰ میلی‌لیتری",
+    "available": true
+  },
+  {
+    "id": 58,
+    "section": "fastfood",
+    "category": "drinks",
+    "name": "اسپرایت",
+    "price": 35000,
+    "desc": "بطری ۳۰۰ میلی‌لیتری",
+    "available": true
+  },
+  {
+    "id": 59,
+    "section": "fastfood",
+    "category": "drinks",
+    "name": "دوغ",
+    "price": 45000,
+    "desc": "دوغ سنتی",
+    "available": true
+  },
+  {
+    "id": 60,
+    "section": "fastfood",
+    "category": "drinks",
+    "name": "دلستر",
+    "price": 45000,
+    "desc": "در طعم‌های مختلف",
+    "available": true
+  },
+  {
+    "id": 61,
+    "section": "fastfood",
+    "category": "drinks",
+    "name": "آب معدنی",
+    "price": 20000,
+    "desc": "بطری ۵۰۰ میلی‌لیتری",
+    "available": true
+  },
+  {
+    "id": 62,
+    "section": "fastfood",
+    "category": "drinks",
+    "name": "موهیتو",
+    "price": 95000,
+    "desc": "موهیتو تازه با نعناع",
+    "available": true
+  },
+  {
+    "id": 63,
+    "section": "fastfood",
+    "category": "drinks",
+    "name": "لیموناد",
+    "price": 85000,
+    "desc": "لیموناد طبیعی",
+    "available": true
+  },
+
+  {
+    "id": 64,
+    "section": "fastfood",
+    "category": "dessert",
+    "name": "کیک شکلاتی",
+    "image": "images/products/cake.jpg",
+    "price": 150000,
+    "desc": "کیک شکلاتی با سس شکلات",
+    "available": true
+  },
+  {
+    "id": 65,
+    "section": "fastfood",
+    "category": "dessert",
+    "name": "براونی",
+    "image": "images/products/brownie.jpg",
+    "price": 170000,
+    "desc": "براونی شکلاتی همراه بستنی",
+    "available": true
+  },
+  {
+    "id": 66,
+    "section": "fastfood",
+    "category": "dessert",
+    "name": "بستنی",
+    "image": "images/products/icecream.jpg",
+    "price": 120000,
+    "desc": "وانیلی یا شکلاتی",
+    "available": true
+  },
+  {
+    "id": 67,
+    "section": "fastfood",
+    "category": "dessert",
+    "name": "چیزکیک",
+    "image": "images/products/cheesecake.jpg",
+    "price": 180000,
+    "desc": "چیزکیک با سس توت فرنگی",
+    "available": true
+  },
+  {
+    "id": 68,
+    "section": "cafe",
+    "category": "breakfast",
+    "name": "بشقاب صبحانه ایرانی",
+    "image": "images/products/iranian-breakfast.jpg",
+    "price": 340000,
+    "desc": "املت گوجه، پنیر، گردو، خیار، گوجه، خامه، عسل",
+    "available": true
+  },
+  {
+    "id": 69,
+    "section": "cafe",
+    "category": "breakfast",
+    "name": "بشقاب صبحانه ایتالیایی",
+    "image": "images/products/italian-breakfast.jpg",
+    "price": 390000,
+    "desc": "لوبیا و قارچ، نیمرو، ژامبون، کوکتل، گوجه، کاهو، زیتون، نان تست",
+    "available": true
+  },
+  {
+    "id": 70,
+    "section": "cafe",
+    "category": "breakfast",
+    "name": "بشقاب صبحانه ترکی",
+    "image": "images/products/turkish-breakfast.jpg",
+    "price": 400000,
+    "desc": "سوسیس، تخم مرغ، خیار، گوجه، پنیر، مربا، کره، گردو، دورچین",
+    "available": true
+  },
+  {
+    "id": 71,
+    "section": "cafe",
+    "category": "breakfast",
+    "name": "بشقاب صبحانه اسپانیایی",
+    "image": "images/products/spanish-breakfast.jpg",
+    "price": 300000,
+    "desc": "املت اسپانیایی، گوجه، خیارشور، دورچین",
+    "available": true
+  },
+
+  {
+    "id": 72,
+    "section": "cafe",
+    "category": "coffee",
+    "name": "اسپرسو",
+    "image": "images/products/espresso.jpg",
+    "price": 100000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 73,
+    "section": "cafe",
+    "category": "coffee",
+    "name": "آمریکانو",
+    "image": "images/products/americano.jpg",
+    "price": 120000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 74,
+    "section": "cafe",
+    "category": "coffee",
+    "name": "کاپوچینو",
+    "image": "images/products/cappuccino.jpg",
+    "price": 150000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 75,
+    "section": "cafe",
+    "category": "coffee",
+    "name": "لاته",
+    "image": "images/products/latte.jpg",
+    "price": 170000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 76,
+    "section": "cafe",
+    "category": "coffee",
+    "name": "موکا",
+    "image": "images/products/mocha.jpg",
+    "price": 200000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 77,
+    "section": "cafe",
+    "category": "coffee",
+    "name": "کارامل ماکیاتو",
+    "image": "images/products/caramel-macchiato.jpg",
+    "price": 210000,
+    "desc": "",
+    "available": true
+  },
+
+  {
+    "id": 78,
+    "section": "cafe",
+    "category": "hotDrinks",
+    "name": "چای مراکشی",
+    "image": "images/products/moroccan-tea.jpg",
+    "price": 150000,
+    "desc": "نعناع، چای سبز، زعفران، نبات",
+    "available": true
+  },
+  {
+    "id": 79,
+    "section": "cafe",
+    "category": "hotDrinks",
+    "name": "دمنوش آرامش بخش",
+    "image": "images/products/relax-tea.jpg",
+    "price": 180000,
+    "desc": "گل گاوزبان، سنبل الطیب، اسطوخودوس، گل محمدی",
+    "available": true
+  },
+  {
+    "id": 80,
+    "section": "cafe",
+    "category": "hotDrinks",
+    "name": "دمنوش انرژی زا",
+    "image": "images/products/energy-tea.jpg",
+    "price": 160000,
+    "desc": "به‌لیمو، زعفران، بابونه، دارچین",
+    "available": true
+  },
+  {
+    "id": 81,
+    "section": "cafe",
+    "category": "hotDrinks",
+    "name": "چای سیاه",
+    "image": "images/products/black-tea.jpg",
+    "price": 40000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 82,
+    "section": "cafe",
+    "category": "hotDrinks",
+    "name": "هات چاکلت",
+    "image": "images/products/hot-chocolate.jpg",
+    "price": 170000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 83,
+    "section": "cafe",
+    "category": "hotDrinks",
+    "name": "ماسالا",
+    "image": "images/products/masala.jpg",
+    "price": 140000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 84,
+    "section": "cafe",
+    "category": "coldDrinks",
+    "name": "واین بست",
+    "image": "images/products/wine-best.jpg",
+    "price": 245000,
+    "desc": "انگور تخمیری، آب میوه‌های بری، لیمو، سماق",
+    "available": true
+  },
+  {
+    "id": 85,
+    "section": "cafe",
+    "category": "coldDrinks",
+    "name": "ویولتا",
+    "image": "images/products/violata.jpg",
+    "price": 220000,
+    "desc": "ویولتا، بلوبری، آب انار، لیمو",
+    "available": true
+  },
+  {
+    "id": 86,
+    "section": "cafe",
+    "category": "coldDrinks",
+    "name": "موهیتو",
+    "image": "images/products/mojito.jpg",
+    "price": 170000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 87,
+    "section": "cafe",
+    "category": "coldDrinks",
+    "name": "لیموناد",
+    "image": "images/products/lemonade.jpg",
+    "price": 150000,
+    "desc": "",
+    "available": true
+  },
+
+  {
+    "id": 88,
+    "section": "cafe",
+    "category": "shakes",
+    "name": "شیک نوتلا",
+    "image": "images/products/nutella-shake.jpg",
+    "price": 340000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 89,
+    "section": "cafe",
+    "category": "shakes",
+    "name": "شیک لوتوس",
+    "image": "images/products/lotus-shake.jpg",
+    "price": 315000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 90,
+    "section": "cafe",
+    "category": "shakes",
+    "name": "شیک پسته زعفران",
+    "image": "images/products/pistachio-saffron-shake.jpg",
+    "price": 390000,
+    "desc": "",
+    "available": true
+  },
+
+  {
+    "id": 91,
+    "section": "cafe",
+    "category": "specialHot",
+    "name": "کرمی پستاچیو",
+    "image": "images/products/creamy-pistachio.jpg",
+    "price": 275000,
+    "desc": "کرم پسته، زعفران، شیر، خامه، بیسکویت",
+    "available": true
+  },
+  {
+    "id": 92,
+    "section": "cafe",
+    "category": "specialHot",
+    "name": "ماچا لاته",
+    "image": "images/products/matcha-latte.jpg",
+    "price": 250000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 93,
+    "section": "cafe",
+    "category": "specialHot",
+    "name": "اسپیرولینا لاته",
+    "image": "images/products/spirulina-latte.jpg",
+    "price": 190000,
+    "desc": "",
+    "available": true
+  },
+
+  {
+    "id": 94,
+    "section": "cafe",
+    "category": "iceCoffee",
+    "name": "آیس پستاچیو آفوگاتو",
+    "image": "images/products/pistachio-affogato.jpg",
+    "price": 215000,
+    "desc": "پسته، بستنی وانیلی، اسپرسو",
+    "available": true
+  },
+  {
+    "id": 95,
+    "section": "cafe",
+    "category": "iceCoffee",
+    "name": "آیس آرنج کافی",
+    "image": "images/products/orange-coffee.jpg",
+    "price": 245000,
+    "desc": "آب پرتقال، سیروپ وانیل، قهوه",
+    "available": true
+  },
+  {
+    "id": 96,
+    "section": "cafe",
+    "category": "iceCoffee",
+    "name": "آیس کارامل ماکیاتو",
+    "image": "images/products/iced-caramel-macchiato.jpg",
+    "price": 210000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 97,
+    "section": "cafe",
+    "category": "iceCoffee",
+    "name": "آیس لاته",
+    "image": "images/products/iced-latte.jpg",
+    "price": 155000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 98,
+    "section": "cafe",
+    "category": "iceCoffee",
+    "name": "آیس موکا",
+    "image": "images/products/iced-mocha.jpg",
+    "price": 200000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 99,
+    "section": "cafe",
+    "category": "iceCoffee",
+    "name": "آیس آمریکانو",
+    "image": "images/products/iced-americano.jpg",
+    "price": 110000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 100,
+    "section": "cafe",
+    "category": "iceCoffee",
+    "name": "آیس ماچا لاته",
+    "image": "images/products/iced-matcha-latte.jpg",
+    "price": 250000,
+    "desc": "شیر، دم شده ماچا",
+    "available": true
+  },
+  {
+    "id": 101,
+    "section": "cafe",
+    "category": "iceCoffee",
+    "name": "آیس اسپیرولینا",
+    "image": "images/products/iced-spirulina.jpg",
+    "price": 240000,
+    "desc": "نوت فرنگی، شیر، دم شده اسپیرولینا",
+    "available": true
+  },
+
+  {
+    "id": 102,
+    "section": "cafe",
+    "category": "smoothie",
+    "name": "اسموتی انبه",
+    "image": "images/products/mango-smoothie.jpg",
+    "price": 240000,
+    "desc": "انبه تازه، بستنی وانیلی، شیر",
+    "available": true
+  },
+  {
+    "id": 103,
+    "section": "cafe",
+    "category": "smoothie",
+    "name": "اسموتی توت فرنگی",
+    "image": "images/products/strawberry-smoothie.jpg",
+    "price": 230000,
+    "desc": "توت فرنگی تازه، بستنی وانیلی، شیر",
+    "available": true
+  },
+  {
+    "id": 104,
+    "section": "cafe",
+    "category": "smoothie",
+    "name": "اسموتی استوایی",
+    "image": "images/products/tropical-smoothie.jpg",
+    "price": 260000,
+    "desc": "انبه، آناناس، موز",
+    "available": true
+  },
+  {
+    "id": 105,
+    "section": "cafe",
+    "category": "smoothie",
+    "name": "اسموتی بری میکس",
+    "image": "images/products/berry-smoothie.jpg",
+    "price": 270000,
+    "desc": "بلوبری، تمشک، توت فرنگی",
+    "available": true
+  },
+
+  {
+    "id": 106,
+    "section": "cafe",
+    "category": "juice",
+    "name": "آب پرتقال",
+    "image": "images/products/orange.jpg",
+    "price": 170000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 107,
+    "section": "cafe",
+    "category": "juice",
+    "name": "آب سیب",
+    "image": "images/products/apple.jpg",
+    "price": 170000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 108,
+    "section": "cafe",
+    "category": "juice",
+    "name": "آب هویج",
+    "image": "images/products/carrot.jpg",
+    "price": 150000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 109,
+    "section": "cafe",
+    "category": "juice",
+    "name": "آب هندوانه",
+    "image": "images/products/watermelon.jpg",
+    "price": 150000,
+    "desc": "",
+    "available": true
+  },
+  {
+    "id": 110,
+    "section": "cafe",
+    "category": "juice",
+    "name": "آب طالبی",
+    "image": "images/products/cantaloupe.jpg",
+    "price": 160000,
+    "desc": "",
+    "available": true
+  }
+]

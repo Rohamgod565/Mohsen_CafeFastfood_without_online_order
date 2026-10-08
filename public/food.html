@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>منوی غذاها | کافه فست فود محسن</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;700;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<!-- ================= Navbar ================= -->
+
+<nav class="navbar">
+
+    <div class="logo">
+        🍔 کافه فست فود محسن
+    </div>
+
+    <ul class="nav-links">
+
+        <li>
+            <a href="index.html">خانه</a>
+        </li>
+
+        <li>
+            <a href="menu.html">منو</a>
+        </li>
+
+    </ul>
+
+</nav>
+
+<!-- ================= صفحه غذاها ================= -->
+
+<section class="menu-page">
+
+    <h1 id="pageTitle"></h1>
+
+    <p class="menu-text">
+        روی هر غذا کلیک کنید تا مشخصات آن را مشاهده کنید.
+    </p> <input
+type="text"
+id="searchBox"
+class="search-box"
+placeholder="🔍 جستجوی غذا..."
+onkeyup="searchFood()">
+
+    <div id="foodsContainer" class="category-grid">
+
+    </div>
+
+</section>
+
+<!-- ================= مودال ================= -->
+
+<div id="foodModal" class="modal">
+
+    <div class="modal-content">
+
+        <span class="close" onclick="closeModal()">&times;</span>
+
+        <!-- اگر بعداً عکس اضافه کردی نمایش داده می‌شود -->
+        <img id="foodImage"
+             src="images/no-image.png"
+             alt="تصویر غذا"
+             style="width:100%;max-width:300px;border-radius:15px;margin-bottom:20px;display:block;margin:auto;">
+
+        <h2 id="foodName"></h2>
+
+        <p id="foodDesc"></p>
+
+        <div class="price" id="foodPrice"></div>
+
+<div id="pizzaSizeBox" style="display:none;margin:20px 0;">
+
+<h3 id="sizeTitle"></h3>
+
+<div id="sizeOptions"></div>
+
+</div>
+        <br>
+
+    </div>
+
+</div>
+
+<script src="js/menu.js"></script>
+
+</body>
+
+</html>
